@@ -25,3 +25,11 @@ chmod 755 *.sh
 ./bin/linux_android.sh
 
 ./install_android.sh
+
+####################
+
+Running
+
+####################
+
+./xoxodroid.sh
