@@ -21,3 +21,6 @@ git clone -b master https://github.com/kangris-sket/xoxodroid
 cd Xoxo
 
 chmod 755 *.sh
+
+./bin/linux_android.sh
+./install_android.sh
