@@ -2,7 +2,7 @@ Xoxo in Termux | Version 1.1.7 - Unofficial
 
 ##############################
 
-Original Repo and Cedit for Nurdianto
+Original Repo and Credit for Nurdianto
 
 link https://github.com/nurd1n/Xoxo
 
