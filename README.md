@@ -23,4 +23,5 @@ cd Xoxo
 chmod 755 *.sh
 
 ./bin/linux_android.sh
+
 ./install_android.sh
